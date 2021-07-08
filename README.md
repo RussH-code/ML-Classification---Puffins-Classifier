@@ -7,7 +7,9 @@ Unfortunately for puffins their good looks fade away at some point each year. On
 
 ![puffins](https://github.com/RussH-code/ML-Classification---Puffins-Classifier/blob/main/puffins.jpg)
 
+---
 
+## Classifier
 
 
 
