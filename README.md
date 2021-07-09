@@ -10,7 +10,7 @@ Unfortunately for puffins their good looks fade away at some point each year. On
 ---
 
 ## Our data
-Our data consists of 344 entries, each with six input variables (x) and one output variable (y). Each entry is in one of three classes of puffins (Tufted, Horned or Atlantic). Our goal is to train the classifier to use the inputs and distinguish the species of puffins.
+The data is in puffins.csv. Our data consists of 344 entries, each with six input variables (x) and one output variable (y). Each entry is in one of three classes of puffins (Tufted, Horned or Atlantic). Our goal is to train the classifier to use the inputs and distinguish the species of puffins.
 
 The input variables are:
 
