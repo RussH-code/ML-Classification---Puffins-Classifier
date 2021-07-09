@@ -21,14 +21,14 @@ The input variables are:
 5. Sex
 6. Year of Data Collection
 
-## Classification
+## Model Training
 Since our training data has labels attached to them, this is a supervised classification problem. In the jupyter notebook, our workflow will be 
 
 1. Data Cleaning and Wrangling
 2. Seperating training and testing set
 3. Training and evaluating three classification models
-4. Model fine tuning
-5. Evaluating and comparing model performance
+4. Model fine tuning based on training performance
+5. Evaluating and comparing testing performance
 6. Identify potential areas of improvement
 
 ---
