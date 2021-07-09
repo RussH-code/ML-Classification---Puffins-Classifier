@@ -1,5 +1,7 @@
 <h1 align="center"> ML-Classification - Puffins-Classifier</h1>
 
+---
+
 <h2 align="center">Let's classify some cute puffins</h2>
 Puffins refer to three species of small alcids in the bird genus Fratercula. For eight months of the year, puffins live on the ocean. These pint-sized birds are well adapted for sea life and enjoy devouring fish. When the warmer spring weather arrives, they head to land for breeding – usually around May to August. 
 
