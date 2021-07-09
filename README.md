@@ -24,7 +24,7 @@ The input variables are:
 ## Model Training
 Since our training data has labels attached to them, this is a supervised classification problem. In the jupyter notebook, our workflow will be 
 
-1. Data Cleaning and Wrangling
+1. Data Cleaning, Wrangling and Visualization
 2. Seperating training and testing set
 3. Training and evaluating three classification models
 4. Model fine tuning based on training performance
